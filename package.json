@@ -1,0 +1,27 @@
+{
+  "name": "restaurante",
+  "version": "1.0.0",
+  "description": "Un ejemplo practico utilizando componentes, para realizar un portafolio usando la tecnologia de Reflex( \"Web apps in pure Python\" )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/react": "^2.8.2",
+    "axios": "^1.6.2",
+    "focus-visible": "^5.2.0",
+    "json5": "^2.2.3",
+    "next": "^14.0.2",
+    "next-themes": "^0.2.1",
+    "socket.io-client": "^4.7.2",
+    "universal-cookie": "^6.1.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.5",    
+    "autoprefixer": "^10.4.16"
+  }
+}
