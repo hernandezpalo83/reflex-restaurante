@@ -4,10 +4,8 @@
   "description": "Un ejemplo practico utilizando componentes, para realizar un portafolio usando la tecnologia de Reflex( \"Web apps in pure Python\" )",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "export-sitemap": "next-sitemap",
-    "build": "next build",
-    "export": "next export -o _static"
+    "build": "next build"
   },
   "keywords": [],
   "author": "",
