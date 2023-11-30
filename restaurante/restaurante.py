@@ -11,12 +11,6 @@ import restaurante.components.footer as footer
 import restaurante.components.html as html
 import reflex as rx
 
-class State(rx.State):
-    """The app state."""
-
-    pass
-
-
 def index() -> rx.Component:
     return rx.box(
             navbar.navbar(),
